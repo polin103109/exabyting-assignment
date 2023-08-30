@@ -1,6 +1,6 @@
 ## PROJECT DESCRIPTION
 
-The current implementation of the project is based on HTML and CSS.I have used Bootstrap CSS slightly and Google Fonts using direct CDN. This website is mobile and different device fully responsive. This is now a static website,there is no functionality added in this. Different icons, buttons, tables and graph-chart design were added for the UI design. This project is a clone of the given project.After completing the project, I have deployed it in free server netlifly so that users can enjoy this UI.
+The current implementation of the project is based on HTML and CSS.I have used Bootstrap CSS slightly and Google Fonts using direct CDN. This website can be made mobile and different device fully responsive easily using Bootstrap or Tailwind. This is now a static website,there is no functionality added in this. Different icons, buttons, tables and graph-chart design were added for the UI design. This project is a clone of the given project.After completing the project, I have deployed it in free server netlifly so that users can enjoy this UI.
 
 ## 💻 Tech Stack
 
